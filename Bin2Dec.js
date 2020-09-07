@@ -2,6 +2,7 @@
 //alert("hello")
 function convert2Decimal(binImput){
     binImput = binImput.split('')
+    console.log(binImput)
     binImput.forEach(element => {
         console.log(element)
     });
