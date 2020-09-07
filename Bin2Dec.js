@@ -8,4 +8,5 @@ function convert2Decimal(binImput){
         console.log(element)
     });
 convert2Decimal("10")
+console.log("teste console")
 }
