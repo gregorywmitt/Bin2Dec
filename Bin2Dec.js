@@ -2,7 +2,7 @@
 binImput = "10"
 
 function convert2Decima(binImput){
-    binImput.split('')
-    
+    binImput = binImput.split('')
+    console.log(binImput)
 
 }
